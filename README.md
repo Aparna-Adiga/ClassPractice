@@ -1,2 +1,0 @@
-# ClassPractice
-Just for practice
